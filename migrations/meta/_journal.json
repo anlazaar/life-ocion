@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1729442360376,
+      "tag": "0000_polite_frightful_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1729445145159,
+      "tag": "0001_silent_arachne",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1729446226144,
+      "tag": "0002_bright_blue_shield",
+      "breakpoints": true
+    }
+  ]
+}
